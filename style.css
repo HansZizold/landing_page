@@ -1,0 +1,153 @@
+body{
+    background-color:#1F2937;
+    color:white;
+    display: flex;
+    flex-direction: column;
+}
+.header{
+    display: flex;
+    justify-content:space-between;
+    padding:0 20%;
+    min-width: 600px;
+}
+.logo{
+    font-size: 24px;
+    color:#F9FAF8;
+    font-weight: bold;
+}
+ul{
+    font-size: 18px;
+    color: #E5E7Eb;
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 16px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.header2{
+    display: flex;
+    justify-content:space-between;
+    padding: 50px 20%;
+    min-width: 600px;
+}
+.header3{
+    display: flex;
+    flex-direction: column;
+    max-width: 350px;
+}
+.awesome{
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight:bolder;
+}
+.text1{
+    font-size: 18px;
+    color: #E5E7Eb;
+    max-width: 350px;
+}
+button.signup{
+    background: #3882F6;
+    border: 1px solid #3882F6;
+    border-radius: 8px;
+    color: aliceblue;
+    font-weight: bold;
+    margin: 5px;
+    padding: 5px;
+}
+img{
+    width: 300px;
+    padding: 10px;
+}
+.content1{
+    background-color: aliceblue;
+    padding:0px 15%;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 1;
+}
+.title1{
+    display: flex;
+    justify-content: center;
+    font-size:36px;
+    color: #1F2937;
+    font-weight: bolder;
+    margin: 16px 0px 0px 0px;
+}
+.images{
+    padding: 16px 0 32px 0;
+    display: flex;
+    justify-content: center;
+}
+.image{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img2{
+    width: 180px;
+    height: 180px;
+    border: 3px solid royalblue;
+    border-radius: 32px;
+    margin: 16px;
+}
+.text2{
+    color: black;
+    width: 160px;
+    text-align: center;
+}
+.content2{
+    background-color: #E5E7Eb;
+    padding:100px 25%;
+}
+.text3{
+    color: #1F2937;
+    font-size: 36px;
+    font-style:italic;
+}
+.content3{
+    background-color: white;
+    padding:50px 25%;
+}
+.content4{
+    background-color: #3882F6;
+    padding: 10px 5%;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+}
+.content5{
+    background-color:#3882F6;
+    color: white;
+    padding:5% 5%;
+    border-radius: 8px;
+}
+.text4{
+    font-size:larger;
+    font-weight: bold;
+}
+.buttons2{
+    display: flex;
+    align-items: center;
+}
+button.signup2{
+    background: #3882F6;
+    border: 2px solid white;
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+    margin: 0px;
+    padding: 5px 25px;
+}
+footer{
+    background-color: #1F2937;
+    color: white;
+    text-align: center;
+    padding: 2%;
+}
+
+
+
